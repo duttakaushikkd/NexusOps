@@ -25,7 +25,7 @@ class AgentState(TypedDict):
 # Connects to the local Ollama instance on http://localhost:11434
 # Uses a model like llama3.1 that is capable of tool calling
 llm = ChatOllama(
-    model="llama3.1",
+    model="llama3.2:latest",
     base_url="http://localhost:11434",
     temperature=0
 )
