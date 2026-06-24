@@ -1,0 +1,12 @@
+.DS_Store
+target/
+node_modules/
+dist/
+.env
+.env.local
+.idea/
+.vscode/
+*.iml
+*.log
+coverage/
+.pytest_cache/

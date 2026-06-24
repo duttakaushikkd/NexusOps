@@ -1,0 +1,11 @@
+html, body, #root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.scrum-column {
+  min-height: 520px;
+}
